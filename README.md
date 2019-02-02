@@ -1,3 +1,2 @@
 # Python
-My projects
-Projects, codes that I wrote.
+Projects, codes that I wrote with Python
