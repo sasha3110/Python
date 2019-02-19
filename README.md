@@ -1,2 +1,2 @@
 # Python
-Projects, codes that I wrote with Python
+My projects for courses or practice.
